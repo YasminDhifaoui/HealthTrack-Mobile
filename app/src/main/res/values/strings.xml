@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SuiviPatient</string>
+    <string name="action_settings">Settings</string>
+    <string name="patient">Patient</string>
+    <string name="tension">Tension Artérielle</string>
+    <string name="rythme">Rythme Cardiaque</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Prénom</string>
+    <string name="date">Date naissance</string>
+    <string name="modifier">Modifier</string>
+    <string name="nouveau">Nouveau</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="retour">Retour</string>
+</resources>
